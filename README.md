@@ -1,3 +1,4 @@
+![logo](https://github.com/mehdi-diaromidi/mehdi-diaromidi/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I’m Mehdi - WordPress Developer & Backend Enthusiast</h1>
 <h3 align="center">Focused on WordPress & Backend Development</h3>
 
