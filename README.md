@@ -9,7 +9,7 @@
 ---
 
 ### 🌟 About Me:
-- 🔭 I’m currently working on [DigitalMenu](https://instalacarte.com/)
+- 🔭 I’m currently working on [ProfileBoxTheme](https://github.com/mehdi-diaromidi/profile-box-wp-theme)
 - 🌱 I’m currently learning **Advanced PHP frameworks like Laravel to complement WordPress.**
 - 👯 I’m looking to collaborate on **REST API integration in WordPress projects**
 - 🤝 I’m looking for help with **Designing scalable WordPress systems with microservices**
